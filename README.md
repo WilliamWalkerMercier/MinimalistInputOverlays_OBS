@@ -16,12 +16,6 @@ Note: This repository does not include the original Input Overlay software. Plea
 - 🎮 Versatile Use: Designed for a variety of setups, including gaming, tutorials and streaming.
 
 ---
-## What you will find
-- 🎨 New overlay images: Enhanced visuals for a more polished look.
-- ⚙️  ️Pre-Built configurations: Save time with ready-to-use setups.
-- 🎮 Versatile Use: Designed for a variety of setups, including gaming, tutorials and streaming.
-
----
 
 ## Available Presets
 This repository includes the following custom presets:
