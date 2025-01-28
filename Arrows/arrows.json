@@ -1,0 +1,76 @@
+{
+    "default_height": 128,
+    "default_width": 157 ,
+    "elements": [
+        {
+            "code": 57416,
+            "id": "UP",
+            "mapping": [
+                161,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                180,
+                0
+            ],
+            "type": 1,
+            "z_level": 1
+        },
+        {
+            "code": 57419,
+            "id": "LEFT",
+            "mapping": [
+                641,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                7,
+                133
+            ],
+            "type": 1,
+            "z_level": 1
+        },
+        {
+            "code": 57424,
+            "id": "DOWN",
+            "mapping": [
+                801,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                144,
+                133
+            ],
+            "type": 1,
+            "z_level": 1
+        },
+        {
+            "code": 57421,
+            "id": "RIGHT",
+            "mapping": [
+                961,
+                1,
+                157,
+                128
+            ],
+            "pos": [
+                281,
+                133
+            ],
+            "type": 1,
+            "z_level": 1
+        }
+    ],
+    "flags": 0,
+    "overlay_height": 280,
+    "overlay_width": 440,
+    "other_width": 568.394,
+    "space_h": -20,
+    "space_v": 5
+}
