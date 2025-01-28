@@ -1,0 +1,27 @@
+{
+    "default_height": 128,
+    "default_width": 157,
+    "elements": [
+        {
+            "code": 57,
+            "id": "space",
+            "mapping": [
+                0,
+                1,
+                880,
+                128
+            ],
+            "pos": [
+                4,
+                4
+            ],
+            "type": 1,
+            "z_level": 1
+        }
+    ],
+    "flags": 0,
+    "overlay_height": 144,
+    "overlay_width": 434,
+    "space_h": -20,
+    "space_v": 5
+}

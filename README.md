@@ -27,6 +27,7 @@ Note: This repository does not include the original Input Overlay software. Plea
 This repository includes the following custom presets:
 1. Keypad Arrows
 2. Enter Key
+3. Space key
 
 ## Installation
 
