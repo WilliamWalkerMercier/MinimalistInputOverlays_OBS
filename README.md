@@ -25,10 +25,10 @@ Note: This repository does not include the original Input Overlay software. Plea
 
 ## Available Presets
 This repository includes the following custom presets:
-1. Keypad Arrows
-2. Enter Key
-3. Space key
-4. SDFG keys combination (possibility to separate them on request)
+1. [Keypad Arrows](https://github.com/WilliamWalkerMercier/MinimalistInputOverlays_OBS/tree/main/Arrows) 
+2. [Enter Key](https://github.com/WilliamWalkerMercier/MinimalistInputOverlays_OBS/tree/main/Enter)
+3. [Spacebar](https://github.com/WilliamWalkerMercier/MinimalistInputOverlays_OBS/tree/main/SpaceBar)
+4. [SDFG keys combination](https://github.com/WilliamWalkerMercier/MinimalistInputOverlays_OBS/tree/main/SDFG) (possibility to separate them on request)
 
 ## Installation
 
@@ -38,7 +38,7 @@ This repository includes the following custom presets:
     - Clone or download this repository
     - Place the images and configs folders into the appropriate directory within the Input Overlay installation (if you're struggling follow these [instructions](https://github.com/univrsal/input-overlay/wiki/Usage))
 3. Configure:
-    - Open Iput Overla and select the appropriate configuration file from this repository
+    - Open Input Overlay and select the appropriate configuration file from this repository
 ---
 ## Acknowledgements 
 
