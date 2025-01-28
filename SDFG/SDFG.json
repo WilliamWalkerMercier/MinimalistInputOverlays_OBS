@@ -1,0 +1,74 @@
+{
+    "default_height": 128,
+    "default_width": 157,
+    "elements": [
+        {
+            "code": 31,
+            "id": "s",
+            "mapping": [
+                13,
+                8,
+                160,
+                127
+            ],
+            "pos": [
+                6,
+                6
+            ],
+            "type": 1,
+            "z_level": 1
+        },
+        {
+            "code": 32,
+            "id": "d",
+            "mapping": [
+                173,
+                8,
+                170,
+                127
+            ],
+            "pos": [
+                167,
+                6
+            ],
+            "type": 1,
+            "z_level": 1
+        },
+        {
+            "code": 33,
+            "id": "f",
+            "mapping": [
+                360,
+                8,
+                170,
+                129
+            ],
+            "pos": [
+                334,
+                6
+            ],
+            "type": 1,
+            "z_level": 1
+        },{
+            "code": 34,
+            "id": "g",
+            "mapping": [
+                550,
+                8,
+                400,
+                129
+            ],
+            "pos": [
+                501,
+                6
+            ],
+            "type": 1,
+            "z_level": 1
+        }
+    ],
+    "flags": 0,
+    "overlay_height": 143,
+    "overlay_width": 668,
+    "space_h": -20,
+    "space_v": 5
+}

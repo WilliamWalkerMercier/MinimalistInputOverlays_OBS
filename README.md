@@ -28,6 +28,7 @@ This repository includes the following custom presets:
 1. Keypad Arrows
 2. Enter Key
 3. Space key
+4. SDFG keys combination (possibility to separate them on request)
 
 ## Installation
 
