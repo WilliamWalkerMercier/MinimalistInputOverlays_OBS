@@ -1,0 +1,19 @@
+{
+  "default_width": 62,
+  "default_height": 115,
+  "space_h": 0,
+  "space_v": 0,
+  "flags": 0,
+  "overlay_width": 62,
+  "overlay_height": 115,
+  "elements": [
+    {
+      "type": 1,
+      "pos": [0, 0],
+      "id": "ENTER",
+      "z_level": 1,
+      "mapping": [0, 0, 76, 115],
+      "code": 28
+    }
+  ]
+}
